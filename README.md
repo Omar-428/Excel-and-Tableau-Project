@@ -18,6 +18,16 @@ Data Harmonization: Seamlessly imported the meticulously cleaned dataset into Ta
 Color-Blind Friendly Visuals: Crafted four insightful visuals with careful consideration for color-blind requirements. Every data point tells a story, accessible to all. 🎨👀
 Explore the Visuals 📈
 Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage.
+![Dashboard ](https://github.com/Omar-428/Excel-and-Tableau-Project/assets/157135250/357200af-f01a-45ad-939f-181c541ac69e)
+
+Explore the Visuals 📈
+Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Here's a sneak peek of one of the visualizations:
+
+
+Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage.
+
+
+
 
 Connect and Collaborate 🌐👥
 This project represents a continuous journey in the landscape of data analysis, and your professional insights, inquiries, and suggestions are highly encouraged. I invite you to engage in meaningful discussions, share your perspectives, and contribute to the ongoing refinement of this analysis. Your expertise and collaboration are instrumental in exploring the expansive possibilities within the realm of data analysis.
