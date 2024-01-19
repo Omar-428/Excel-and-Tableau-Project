@@ -19,7 +19,7 @@ Color-Blind Friendly Visuals: Crafted four insightful visuals with careful consi
 
 
 Explore the Visuals 📈
-Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Here's a sneak peek of one of the visualizations:![Dashboard ](https://github.com/Omar-428/Excel-and-Tableau-Project/assets/157135250/357200af-f01a-45ad-939f-181c541ac69e)
+Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Here's a sneak peek of the visualizations:![Dashboard ](https://github.com/Omar-428/Excel-and-Tableau-Project/assets/157135250/357200af-f01a-45ad-939f-181c541ac69e)
 
 
 Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage.
