@@ -16,12 +16,10 @@ Artistic Visuals: Transformed data into a visual masterpiece with captivating ch
 Tableau Expertise
 Data Harmonization: Seamlessly imported the meticulously cleaned dataset into Tableau for a harmonious visualization experience. 🌐
 Color-Blind Friendly Visuals: Crafted four insightful visuals with careful consideration for color-blind requirements. Every data point tells a story, accessible to all. 🎨👀
-Explore the Visuals 📈
-Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage.
-![Dashboard ](https://github.com/Omar-428/Excel-and-Tableau-Project/assets/157135250/357200af-f01a-45ad-939f-181c541ac69e)
+
 
 Explore the Visuals 📈
-Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Here's a sneak peek of one of the visualizations:
+Dive into the mesmerizing world of visualizations! Head over to the /Visualizations directory to witness the magic. Here's a sneak peek of one of the visualizations:![Dashboard ](https://github.com/Omar-428/Excel-and-Tableau-Project/assets/157135250/357200af-f01a-45ad-939f-181c541ac69e)
 
 
 Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage.
