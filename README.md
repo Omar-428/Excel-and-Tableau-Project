@@ -20,7 +20,7 @@ Color-Blind Friendly Visuals: Crafted four insightful visuals with careful consi
 
 Explore the Visuals 📈
 Here's a sneak peek of my visualizations:![Dashboard ](https://github.com/Omar-428/Excel-and-Tableau-Project/assets/157135250/357200af-f01a-45ad-939f-181c541ac69e)
-[Link to my Dashboard] (https://public.tableau.com/views/Assignment_17037848652550/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+[Link_to_my_Dashboard](https://public.tableau.com/views/Assignment_17037848652550/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 Your feedback isn't just welcome—it's celebrated! Feel free to explore, share, and engage.
 
